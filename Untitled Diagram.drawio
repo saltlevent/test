@@ -1,12 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T17:07:49.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="eZzMDJ-qlddLHYBribWR" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T17:19:40.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="NPvBUsvK2soDDr6yhFa6" version="14.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="953" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Evet" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Evet" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="dVqgmeNc8iH2BV-W2VbZ-17" edge="1">
           <mxGeometry x="-0.4993" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
+            <mxPoint x="110" y="325" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="315" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="Hayır" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="dVqgmeNc8iH2BV-W2VbZ-13" edge="1">
@@ -33,29 +37,13 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Kamera Görüntüsünden insan yüzünü kes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="135" y="280" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dVqgmeNc8iH2BV-W2VbZ-0" value="İnsan yüzüne cinsiyet analizi yap" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="325" y="280" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dVqgmeNc8iH2BV-W2VbZ-4" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="dVqgmeNc8iH2BV-W2VbZ-0">
+        <mxCell id="dVqgmeNc8iH2BV-W2VbZ-4" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dVqgmeNc8iH2BV-W2VbZ-17" target="dVqgmeNc8iH2BV-W2VbZ-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="345" y="430" as="sourcePoint" />
-            <mxPoint x="95.0344827586207" y="135.0344827586208" as="targetPoint" />
+            <mxPoint x="310" y="270" as="sourcePoint" />
+            <mxPoint x="270" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="285" y="300" />
-              <mxPoint x="285" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dVqgmeNc8iH2BV-W2VbZ-6" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dVqgmeNc8iH2BV-W2VbZ-0">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="265" y="310" as="sourcePoint" />
-            <mxPoint x="495" y="300" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="455" y="300" />
-              <mxPoint x="455" y="300" />
+              <mxPoint x="280" y="315" />
+              <mxPoint x="280" y="315" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -83,6 +71,22 @@
               <mxPoint x="80" y="130" />
               <mxPoint x="80" y="130" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dVqgmeNc8iH2BV-W2VbZ-17" value="&lt;span&gt;Kamera Görüntüsünden insan yüzünü kes&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="280" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dVqgmeNc8iH2BV-W2VbZ-18" value="&lt;span&gt;İnsan yüzüne cinsiyet analizi yap&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="285" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dVqgmeNc8iH2BV-W2VbZ-19" value="&lt;span&gt;İnsan yüzüne yaş&amp;nbsp; analizi yap&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="285" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dVqgmeNc8iH2BV-W2VbZ-20" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dVqgmeNc8iH2BV-W2VbZ-18" target="dVqgmeNc8iH2BV-W2VbZ-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="325" as="sourcePoint" />
+            <mxPoint x="430" y="315" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
